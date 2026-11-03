@@ -1,16 +1,16 @@
-# Doublecount 1.0.0
+# Doublecount 1.0.1
 
-Primera publicación de Doublecount para Android en este repositorio.
+Actualización del logo de la aplicación.
 
-- Versión: 1.0.0 (build 1).
+- Versión: 1.0.1 (build 2).
 - Paquete: `com.axiom.doublecount`.
 - Requiere Android 7.0 (API 24) o superior.
 - APK universal para arm64-v8a, armeabi-v7a y x86_64.
 
-Descarga e instala `app-release.apk`. Se incluyen los checksums SHA-1 y SHA-256 para verificar la descarga.
+Descarga e instala `doublecount.apk`. Se incluyen los checksums SHA-1 y SHA-256 para verificar la descarga.
 
-SHA-256 de `app-release.apk`:
+SHA-256 de `doublecount.apk`:
 
 ```text
-67b724976e1229229eccbc42b70193a1511b038a3afeeff6e6931b8c4ba3a1a7
+491f1275404155b18fea457c008a0c31574c6b509d2461adfb5efd8ebf5075f7
 ```
